@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-3\Assignment-3-P-2\ConversionMethod\ConversionMethod\bin\Debug\ConversionMethod.exe.config
+C:\mphasis-B2\Day-3\Assignment-3-P-2\ConversionMethod\ConversionMethod\bin\Debug\ConversionMethod.exe
+C:\mphasis-B2\Day-3\Assignment-3-P-2\ConversionMethod\ConversionMethod\bin\Debug\ConversionMethod.pdb
+C:\mphasis-B2\Day-3\Assignment-3-P-2\ConversionMethod\ConversionMethod\obj\Debug\ConversionMethod.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-3\Assignment-3-P-2\ConversionMethod\ConversionMethod\obj\Debug\ConversionMethod.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-3\Assignment-3-P-2\ConversionMethod\ConversionMethod\obj\Debug\ConversionMethod.exe
+C:\mphasis-B2\Day-3\Assignment-3-P-2\ConversionMethod\ConversionMethod\obj\Debug\ConversionMethod.pdb
